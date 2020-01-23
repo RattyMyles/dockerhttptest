@@ -1,6 +1,6 @@
-#Docker http test
+# Docker http test
 
-###Purpose of this project?
+### Purpose of this project?
 A small docker container to run on AWS for testing purposes.
 
 ```
