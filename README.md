@@ -1,7 +1,7 @@
 # Docker http test
 
 ### Purpose of this project?
-A small docker container to run on AWS for testing purposes.
+Small docker container that shows uname -a when you send it a http request. Usefull for testing clusters and AWS.
 
 ```
 docker run -d -p 80:8000 rattymyles/smallhttptest
